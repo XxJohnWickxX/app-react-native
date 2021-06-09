@@ -1,0 +1,12 @@
+{
+  "name": "prueba-app",
+  "displayName": "prueba-app",
+  "expo": {
+    "name": "prueba-app",
+    "slug": "prueba-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
