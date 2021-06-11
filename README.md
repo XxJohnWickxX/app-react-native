@@ -1,4 +1,4 @@
-# Preuba reacts native
+# Preuba react native
 
 Atomic design was used as the design methodology for this test.
 
