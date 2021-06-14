@@ -1,4 +1,4 @@
-# Preuba react native
+# Prueba react native
 
 Atomic design was used as the design methodology for this test.
 
